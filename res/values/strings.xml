@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="a">Text To Speech</string>
+<string name="b">Speech To Text</string>
+<string name="c">Speech To Text</string>
+<string name="d">Text To Speech</string>
+<string name="e">"Sorry, Your device doesn't support speech input!"</string>
+<string name="f">Press the icon to speak!</string>
+<string name="g">sans-serif-condensed</string>
+</resources>

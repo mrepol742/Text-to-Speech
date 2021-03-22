@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="418201927" android:versionName="4.0" package="com.android.DROID_MJ.texttospeech" >
+	<uses-sdk android:minSdkVersion="16" android:targetSdkVersion="27" />
+	<application android:allowBackup="true" android:icon="@mipmap/a" android:label="@string/a" android:supportsRtl="true" android:theme="@style/c">
+		<activity android:name=".a">
+ 
+		</activity>
+		<activity  android:name=".b">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+	</application>
+</manifest>
